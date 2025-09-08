@@ -1,10 +1,12 @@
 # Summer-Internship-Cloud-Computing-
 Overview
 
+
 This repository documents the work completed during my Summer Internship in the domain of Cloud Computing. The internship focused on building hands-on skills in cloud storage, monitoring, multi-cloud architectures, and cloud security.
 The tasks were carried out using major cloud service providers like AWS and Google Cloud Platform (GCP), ensuring exposure to real-world multi-cloud environments.
 
 Internship Tasks
+
 Task 1: Create and Configure Cloud Storage
 Set up cloud storage using AWS S3 and Google Cloud Storage (GCS).
 Configured buckets with proper naming conventions, permissions, and access policies.
